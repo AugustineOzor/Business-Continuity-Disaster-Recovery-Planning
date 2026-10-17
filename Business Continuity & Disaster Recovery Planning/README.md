@@ -4,7 +4,7 @@
 
 # CriticalOps Inc — Business Continuity & Disaster Recovery Planning
 
-![Progress](https://img.shields.io/badge/Progress-4%2F4%20Tasks-success) ![COBIT](https://img.shields.io/badge/-COBIT-informational) ![ISO 27001](https://img.shields.io/badge/-ISO%2027001-informational)
+ ![COBIT](https://img.shields.io/badge/-COBIT-informational) ![ISO 27001](https://img.shields.io/badge/-ISO%2027001-informational)
 
 </div>
 
