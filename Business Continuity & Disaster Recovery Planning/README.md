@@ -1,6 +1,6 @@
 <div align="center">
 
-![CriticalOps BC/DR Banner](banner.jpg)
+<img width="3200" height="840" alt="banner" src="https://github.com/user-attachments/assets/a5bf694a-9af9-4451-9b66-854f0069eadf" />
 
 # CriticalOps Inc — Business Continuity & Disaster Recovery Planning
 
